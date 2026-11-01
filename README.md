@@ -8,7 +8,7 @@
 
 ---
 
-[Sobre mí](#sobre-mí) • [Tech Stack](#tech-stack) • [Experiencia](#experiencia-profesional) • [Educación](#educación-y-certificaciones) • [Actividad](#mi-actividad) • [Contacto](#conectemos)
+[Sobre mí](#sobre-mí) • [Tech Stack](#tech-stack) • [Experiencia](#experiencia-profesional) • [Educación](#educación-y-certificaciones) • [Contacto](#conectemos)
 
 </div>
 
@@ -113,21 +113,7 @@ Fuera del código, disfruto experimentar con entornos Linux, probar distribucion
 - **UI / UX Design Specialization** — California Institute of the Arts (CalArts) / Coursera *(2026)*
 - **Data Ingestion** — Kaggle / UTEL Universidad / Ucamp *(2026)*
 
----
 
-## MI ACTIVIDAD
-
-<div align="center">
-
-<a href="https://gitcolors.vercel.app">
-  <picture>
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=ramon-ceja&theme=dark&preset=githubpurple&animate=true&emptyColor=tint" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=ramon-ceja&theme=light&preset=githubpurple&animate=true&emptyColor=tint" media="(prefers-color-scheme: light)" />
-    <img src="https://gitcolors.vercel.app/api/svg?username=ramon-ceja&theme=dark&preset=githubpurple&animate=true&emptyColor=tint" width="100%" alt="Calendario de contribuciones de Ramón Ceja" />
-  </picture>
-</a>
-
-</div>
 
 ---
 
