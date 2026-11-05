@@ -8,7 +8,7 @@
 
 ---
 
-[Sobre mí](#sobre-mí) • [Tech Stack](#tech-stack) • [Experiencia](#experiencia-profesional) • [Educación](#educación-y-certificaciones) • [Contacto](#conectemos)
+[Sobre mí](#sobre-mí) • [Tech Stack](#tech-stack) • [Educación](#educación-y-certificaciones) • [Contacto](#conectemos)
 
 </div>
 
@@ -73,39 +73,6 @@ Fuera del código, disfruto experimentar con entornos Linux, probar distribucion
   <img src="https://img.shields.io/badge/NumPy-1e293b?style=for-the-badge&logo=numpy&logoColor=013243" />
 </p>
 
----
-
-## EXPERIENCIA PROFESIONAL
-
-#### Full Stack Developer Jr. / Frontend Developer — *DesignsGDL*
-
-*Julio 2026 - Presente*
-
-- Desarrollo y mantenimiento de aplicaciones web utilizando Vue.js, React y TypeScript.
-- Implementación de interfaces responsivas y sistemas de estilos con Tailwind CSS.
-- Optimización, refactorización y mejora de la arquitectura frontend.
-- Integración de servicios mediante APIs REST y mantenimiento de aplicaciones multi-tenant.
-- Administración de entornos de desarrollo e infraestructura con Proxmox VE, Docker, Coolify y Cloudflare.
-
-#### Web Development Intern — *DesignsGDL*
-
-*Febrero 2026 - Julio 2026*
-
-- Maquetación y desarrollo de interfaces web utilizando Vue.js y Tailwind CSS.
-- Colaboración en la integración de frontend con servicios backend en PHP (Laravel / CodeIgniter).
-- Apoyo en documentación técnica y organización del código.
-- Configuración y mantenimiento de entornos de prueba basados en Linux.
-
-#### Encargado de Departamento Web — *BUSTUM.mx*
-
-*Septiembre 2023 - Octubre 2024*
-
-- Desarrollo y despliegue de sitios web personalizados utilizando HTML5, JavaScript, SASS y PHP.
-- Optimización de rendimiento y experiencia de usuario en proyectos web.
-- Administración de servidores VPS y servicios de infraestructura web.
-- Gestión de dominios, DNS, CDN y políticas de seguridad mediante Cloudflare.
-
----
 
 ## EDUCACIÓN Y CERTIFICACIONES
 
